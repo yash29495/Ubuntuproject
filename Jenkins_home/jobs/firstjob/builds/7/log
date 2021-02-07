@@ -1,0 +1,11 @@
+Started by user [8mha:////4HZeX6nQR1E9IDm8BxplpDRW9yUWFLSDL/mj8XZnflteAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgZu/dLi1CL9xJTczDwAZ3pnlMAAAAA=[0myash
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/firstjob
+[firstjob] $ /bin/sh -xe /tmp/jenkins328236171753853542.sh
++ NAME=yash
++ echo HEllo, yash, welcome
+HEllo, yash, welcome
++ date
++ echo the date is Mon Jul 27 10:18:29 UTC 2020
+the date is Mon Jul 27 10:18:29 UTC 2020
+Finished: SUCCESS

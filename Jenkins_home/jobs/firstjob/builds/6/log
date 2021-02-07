@@ -1,0 +1,10 @@
+Started by user [8mha:////4HZeX6nQR1E9IDm8BxplpDRW9yUWFLSDL/mj8XZnflteAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgZu/dLi1CL9xJTczDwAZ3pnlMAAAAA=[0myash
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/firstjob
+[firstjob] $ /bin/sh -xe /tmp/jenkins4531893646018459670.sh
++ NAME=yash
++ echo yash
+yash
+/tmp/jenkins4531893646018459670.sh: 5: /tmp/jenkins4531893646018459670.sh: Syntax error: Unterminated quoted string
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
